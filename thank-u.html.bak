@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Emaar Amaris - Thank you</title>
+	
+<link href="assets/css/global.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;600;700;800;900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
+	<!-- Meta Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1062796464606893');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=1062796464606893&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Meta Pixel Code -->
+	<img src="https://adomantradigitalindiapvtltd10794572.o18.click/p?m=11757&t=i&gb=1&adv_sub1={REPLACE}&adv_sub2={REPLACE}" width="0px" height="0px">
+
+	<!-- Global site tag (gtag.js) - Google Ads: AW-10923473859 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10923473859"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'AW-10923473859');
+	</script>
+
+	<!-- Event snippet for Emaar_Thank pou page conversion page -->
+	<script>
+	  gtag('event', 'conversion', {'send_to': 'AW-10923473859/oOTRCJfh0tMDEMP329go'});
+	</script>
+
+	<meta name="facebook-domain-verification" content="ddsjm3fptxhslhmq8w1w1v576qcpjw" />
+</head>
+<body> 
+
+ 
+
+
+<div class="thank_u">
+	<div class="container">
+		<div class="logo text-center">
+			<a href="index.html">
+				<img src="img/logo.webp" alt="">
+			</a>
+		</div>
+		<div class="thank_u2">
+		<img src="assets/images/thank_u.png">
+		<br>
+		<h3 style="margin-bottom: 25px;">Thank you</h3>
+		<p>Your Response Has been Successfully submited</p>
+		<p>We will contact you soon.</p>
+		<p><a href="/"><i class="fa fa-home"></i><button>&nbsp; back to home</button></a></p>
+		</div>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+	setTimeout(() => {
+                    window.location.href = 'index.html'; // Change this to your home page
+                }, 3000);
+</script>
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>  
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script> 
+</body>
+</html>
